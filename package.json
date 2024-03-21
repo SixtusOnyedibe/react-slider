@@ -1,0 +1,39 @@
+{
+  "name": "@sixtusonyedibe/react-slider",
+  "version": "1.0.0",
+  "description": "Slider for React",
+  "type": "module",
+  "main": "index.tsx",
+  "source": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SixtusOnyedibe/react-slider.git"
+  },
+  "keywords": [
+    "Slider"
+  ],
+  "author": "Sixtus Onyedibe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SixtusOnyedibe/react-slider/issues"
+  },
+  "homepage": "https://github.com/SixtusOnyedibe/react-slider#readme",
+  "devDependencies": {
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/warning": "^3.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.2",
+    "next": "14.1.3"
+  },
+  "peerDependencies": {
+    "@types/react": "^18.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "14.1.3"
+  }
+}
